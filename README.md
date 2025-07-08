@@ -8,8 +8,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a vocational school student.
-- 🌱 I’m currently learning C
-- 📫 How to reach me: [Twitter - @emuaaaaruu](https://twitter.com/emuaaaaruu)
+- 🌱 I’m currently learning Python
+- 💻 I’m interested in C, C++, Lua, Haxe.
 <br>
 
 
