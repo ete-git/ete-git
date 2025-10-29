@@ -12,7 +12,7 @@
 - 💻 I’m interested in C and C#.
 - 📫 How to reach me: Discord – motoemuaru
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a sence of pitch… but only for C, E and B.
+- ⚡ Fun fact: I have a perfect pitch… but only for C, E and B.
 
 
 <br>
